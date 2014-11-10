@@ -3,7 +3,6 @@
     "type": "Package",
     "description": "OAuth Server & Resource for Laravel 5",
     "keywords": ["OAuth","laravel5","laravel"],
-    "homepage": "http://github.com/Seldaek/monolog",
     "license": "MIT",
     "authors": [
         {
